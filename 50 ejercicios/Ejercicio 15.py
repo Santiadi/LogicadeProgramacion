@@ -1,0 +1,8 @@
+#15.	Escribe un algoritmo o el respectivo diagrama de flujo que dadas coordenadas x1,y1 y x2,y2 en el plano cartesiano calcule la distancia entre ellos (considere todos los valores positivos)
+print("Los valores de x2 y y2, tienen que ser mayores a los de x1 y y1")
+x1=int(input("Dame la coordenada de x1: "))
+y1=int(input("Dame la coordenada de y1: "))
+x2=int(input("Dame la coordenada de x2: "))
+y2=int(input("Dame la coordenada de y2: "))
+d=((x2-x1)+(y2.y1))
+print("Está es la distacia entre las coordenadas:",d)
